@@ -48,6 +48,8 @@ Rebase your branch from `main` onto `exercise-four`.
 
 Merge in the branch `exercise-five`. When you run into a merge conflict, abort the merge.
 
+### Questions
+
 1. What are some real life circumstances in which you might abort a merge?
 
 2. If you run into a merge that cannot be resolved unambiguously, what are some practical steps you might take?
