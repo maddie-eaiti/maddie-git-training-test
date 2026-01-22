@@ -1,12 +1,13 @@
-function printTimeStamp() {
-  const now = new Date();
-  console.log(`Current Timestamp: ${now.toISOString()}`);
+class Script {
+  static printTimeStamp() {
+    const now = new Date();
+    console.log(`Current Timestamp: ${now.toISOString()}`);
+  }
+
+  static greetUser(name: string) {
+    console.log(`Hello, ${name}! Welcome to our application.`);
+  }
 }
 
-printTimeStamp();
-
-function greetUser(name: string) {
-  console.log(`Hello, ${name}! Welcome to our application.`);
-}
-
-greetUser("Alice");
+Script.printTimeStamp();
+Script.greetUser("Alice");
