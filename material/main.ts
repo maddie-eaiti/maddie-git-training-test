@@ -4,7 +4,9 @@ class Main {
   }
 
   run() {
+    console.log("first log");
     console.log("Running the main application.");
+    console.log("last log");
   }
 
   test() {

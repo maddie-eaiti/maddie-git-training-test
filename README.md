@@ -18,6 +18,8 @@ Create a new branch called "develop" off of main. Add text to the `<strong>` tag
 
 ## Exercise 2
 
+Merge the branch `exercise-two` into your `develop` branch.
+
 ## Exercise 3
 
 ## Exercise 4
