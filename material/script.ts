@@ -3,10 +3,10 @@ function printTimeStamp() {
   console.log(`Current Timestamp: ${now.toISOString()}`);
 }
 
+printTimeStamp();
+
 function greetUser(name: string) {
   console.log(`Hello, ${name}! Welcome to our application.`);
 }
 
 greetUser("Alice");
-
-printTimeStamp();
