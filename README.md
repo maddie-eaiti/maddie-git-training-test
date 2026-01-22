@@ -26,6 +26,10 @@ Merge the branch `exercise-two` into your `develop` branch. There should be merg
 
 ## Exercise 3
 
+Add a new method to `script.ts` and stash it. Then, merge the branch `exercise-three` into your branch, and unstash your change. Resolve the conflict and commit the result.
+
+### Questions
+
 ## Exercise 4
 
 ## Exercise 5
