@@ -18,6 +18,12 @@ Create a new branch called "develop" off of main. Add text to the `<strong>` tag
 
 ## Exercise 2
 
+Merge the branch `exercise-two` into your `develop` branch. There should be merge conflicts - but you should be able to resolve them unambiguously.
+
+### Questions
+
+1. What does it mean for a change to be "unambiguously" resolvable?
+
 ## Exercise 3
 
 ## Exercise 4
