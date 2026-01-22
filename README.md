@@ -46,7 +46,15 @@ Rebase your branch from `main` onto `exercise-four`.
 
 ## Exercise 5
 
-Merge in the branch `exercise-five`. When you run into a merge conflict, abort the merge.
+Merge in the branch `exercise-five`. When you run into a merge conflict, abort the merge. Then do the following:
+
+1. Commit a change.
+
+2. Undo that commit, while keeping the changes.
+
+3. Commit the changes again.
+
+4. Revert the changes.
 
 ### Questions
 
