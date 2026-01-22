@@ -4,7 +4,7 @@ A repository with exercises for git training
 
 ## Setup
 
-Fork this repository to a new repository under your user. Then get the address of your new repository, and create a local copy on your laptop with `git clone {address}`.
+Fork this repository to a new repository under your user. **Make sure to uncheck "copy `main` branch only" which is selected by default**, you will need the additional branches. Then get the address of your new repository, and create a local copy on your laptop with `git clone {address}`.
 
 ## Exercise 1
 
