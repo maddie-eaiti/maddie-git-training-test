@@ -4,7 +4,9 @@ function printTimeStamp() {
 }
 
 function greetUser(name: string) {
-  console.log(`Hello, ${name}! Welcome to our application.`);
+  console.log(
+    `Hello, ${name}! Welcome to our application. We hope you have a great experience.`,
+  );
 }
 
 greetUser("Alice");
