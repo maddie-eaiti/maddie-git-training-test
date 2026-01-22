@@ -30,6 +30,10 @@ Add a new method to `script.ts` and stash it. Then, merge the branch `exercise-t
 
 ### Questions
 
+1. How does this affect the order in which the changes resolve? What could be the benefits to using a stash in this way?
+
+2. What are some other ways you could use a stash?
+
 ## Exercise 4
 
 ## Exercise 5
