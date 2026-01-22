@@ -22,7 +22,7 @@ Merge the branch `exercise-two` into your `develop` branch. There should be merg
 
 ### Questions
 
-1. What does it mean for a change to be "unambiguously" resolvable?
+1. What does it mean for a change to be "unambiguously" resolvable? What would the opposite be?
 
 ## Exercise 3
 
