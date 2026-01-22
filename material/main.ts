@@ -4,8 +4,10 @@ class Main {
   }
 
   run() {
+    console.log("This message should always log FIRST");
     console.log("Running the main application.");
     console.log("Hello, World!");
+    console.log("This message should always log LAST");
   }
 
   test() {
