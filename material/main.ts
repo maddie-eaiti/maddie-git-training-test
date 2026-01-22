@@ -8,6 +8,6 @@ class Main {
   }
 
   test() {
-    console.log("Test method executed.");
+    console.log("Main method executed and tested.");
   }
 }
