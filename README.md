@@ -2,7 +2,19 @@
 
 A repository with exercises for git training
 
+## Setup
+
+Fork this repository to a new repository under your user. Then get the address of your new repository, and create a local copy on your laptop with `git clone {address}`.
+
 ## Exercise 1
+
+Create a new branch called "develop" off of main. Add text to the `<strong>` tags in main.html, and a new `console.log` to the `run()` method of main.ts. Push your changes to your remote, and ensure it's present on Github.
+
+### Questions
+
+1. What are the steps for putting your changes on remote (hint: there's three of them).
+
+2. What would be different about this process if there were changes on remote that you did not have?
 
 ## Exercise 2
 
