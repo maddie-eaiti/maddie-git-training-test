@@ -5,6 +5,7 @@ class Main {
 
   run() {
     console.log("Running the main application.");
+    console.log("Hello, World!");
   }
 
   test() {
