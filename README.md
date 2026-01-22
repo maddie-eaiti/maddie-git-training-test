@@ -36,7 +36,7 @@ Add a new method to `script.ts` and stash it. Then, merge the branch `exercise-t
 
 ## Exercise 4
 
-Rebase your branch from `exercise three` onto `exercise-four`.
+Rebase your branch from `main` onto `exercise-four`.
 
 ### Questions
 
