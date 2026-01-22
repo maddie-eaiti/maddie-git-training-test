@@ -4,9 +4,9 @@ class Main {
   }
 
   run() {
-    console.log("first log");
+    console.log("This message should always log FIRST");
     console.log("Running the main application.");
-    console.log("last log");
+    console.log("This message should always log LAST");
   }
 
   test() {
